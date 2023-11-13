@@ -1,7 +1,7 @@
 # TalkingToChatbots.com Chatbot Battles
 
 ## Description
-This repository features `cb_battle.py`, a Python script developed with assistance from ChatGPT. The script is a Tkinter GUI application that scores chatbots on various metrics and generates an HTML display of the results. The aim is to showcase how ChatGPT can assist in creating functional code for real-world applications.
+This repository features `cb_battle.py`, a Python script developed with assistance from ChatGPT. The script is a Tkinter GUI application that scores chatbots on various metrics and generates an HTML display of the results. The aim of publishing the code is to showcase how ChatGPT can assist in creating functional code for any real-world application. If you're interested in learning more about chatbot battles, read more at https://reddgr.com/talking-to-chatbots/is-philosophy-a-science-chatbot-battle/ for an introduction to the concept and design.
 
 ## Setup
 Ensure you have Python installed on your computer to run this script.
