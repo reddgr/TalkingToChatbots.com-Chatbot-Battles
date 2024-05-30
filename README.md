@@ -28,7 +28,7 @@ The project is not just about building a GUI or generating HTML, but rather demo
 Future updates may include more scripts and examples of ChatGPT-assisted development, reflecting the evolving conversation and content on talkingtochatbots.com.
 
 ## Final Note
-This README file was written with the assistance of ChatGPT. Happy coding! :)
+This README file was written by ChatGPT.
 
 
 
